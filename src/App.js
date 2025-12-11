@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="app">
       <div className="container">
-        <h1>📝 Minha Lista de Tarefas</h1>
+        <h1>📝 Minha Lista de Tarefas Atualizada</h1>
 
         <div className="input-container">
           <input
